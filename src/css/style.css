@@ -21,7 +21,7 @@ body {
 header {
   width: 100vw;
   height: 20vh;
-  background: url(../images/header.png) no-repeat fixed;
+  background: url("../images/header.png") no-repeat fixed;
   background-size: cover;
   background-position: center -9rem;
   display: flex;
