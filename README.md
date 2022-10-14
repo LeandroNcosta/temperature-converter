@@ -15,5 +15,5 @@
 
 ## Demonstração :
 
-<img src="src/images/print-a.png"/>
-<img src="src/images/print-b.png"/>
+<img src="src/print-a.png"/>
+<img src="src/print-b.png"/>
