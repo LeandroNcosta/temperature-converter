@@ -1,4 +1,4 @@
-# Calculadora de Hora Extra 📆💸
+# Conversor 📆💸
 
 ## Aplicação
  Para visualizar: <a target="_blank" rel="external" href="https://leandroncosta.github.io/temperature-converter//">Clique aqui</a> 
